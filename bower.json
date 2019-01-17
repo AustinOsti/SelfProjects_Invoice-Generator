@@ -1,0 +1,20 @@
+{
+  "name": "invoicr",
+  "description": "Simple client management",
+  "main": "app.js",
+  "authors": [
+    "Brad Traversy"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AustinOsti/SelfProjects_Invoice-Generator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
